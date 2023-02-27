@@ -1,0 +1,9 @@
+{
+  "name": "item1",
+  "locale": [
+    "en",
+    "de"
+  ],
+  "is_verified": true,
+  "department_id": 3
+}
